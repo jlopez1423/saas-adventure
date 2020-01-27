@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="204f0a73-4cb0-44be-938e-a3e4ea7d0567" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1W81trQKGo6AAOa0r3yDeeKaqVh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="204f0a73-4cb0-44be-938e-a3e4ea7d0567" name="Default Changelist" comment="" />
+      <created>1578516626019</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578516626019</updated>
+      <workItem from="1578516628111" duration="1374000" />
+      <workItem from="1578604089639" duration="810000" />
+      <workItem from="1578951997632" duration="1215000" />
+      <workItem from="1579580755989" duration="342000" />
+      <workItem from="1580082276279" duration="878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3655" y="116" key="SettingsEditor" timestamp="1579580728094">
+      <screen x="3360" y="23" width="1920" height="1057" />
+    </state>
+    <state x="3655" y="116" key="SettingsEditor/0.23.1440.877/1440.23.1920.1057/3360.23.1920.1057@3360.23.1920.1057" timestamp="1579580728094" />
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1578517718080" />
+    <state x="1969" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1580082283909">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1969" y="350" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1920.1057/3360.23.1920.1057@1440.23.1920.1057" timestamp="1580082283909" />
+    <state x="3889" y="350" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1920.1057/3360.23.1920.1057@3360.23.1920.1057" timestamp="1579580758377" />
+    <state x="397" y="294" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1578952022807" />
+  </component>
+</project>
